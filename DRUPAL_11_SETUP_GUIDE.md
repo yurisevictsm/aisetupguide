@@ -77,7 +77,7 @@ ddev claude-code   # alias: ddev cc
 
 ## 5. Add this guide to the project root
 
-Claude builds from the specification in Part B of this guide, so the file has to be in the project. Download it from the wiki page ([here](/sites/default/files/2026-10/DRUPAL_11_SETUP_GUIDE.md)) and save it in the project root — the same folder as `composer.json` and `.ddev/` — with exactly this name, because the Step 6 prompt refers to it by name:
+Claude builds from the specification in Part B of this guide, so the file has to be in the project. Download it ([here](https://github.com/yurisevictsm/aisetupguide/tree/main)) and save it in the project root — the same folder as `composer.json` and `.ddev/` — with exactly this name, because the Step 6 prompt refers to it by name:
 
 ```
 DRUPAL_11_SETUP_GUIDE.md
