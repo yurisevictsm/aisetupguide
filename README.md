@@ -1,4 +1,4 @@
-# aisetupguide
+#  Drupal 11 Project Setup Guide (Pantheon + DDEV + Claude) 
 
 Step-by-step guide to start a new Drupal 11 project: create it on Pantheon first, bring it down to a local DDEV environment, wire up the `ddev-ai-workspace` AI tooling, then have Claude install the contrib modules and scaffold a new Bootstrap 5 subtheme in a single prompt.
 
